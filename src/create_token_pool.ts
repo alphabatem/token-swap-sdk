@@ -9,7 +9,7 @@ import {
 	TOKEN_2022_PROGRAM_ID
 } from "@solana/spl-token";
 import {BN, web3} from "@project-serum/anchor";
-import {blob, struct, u64, u8} from "@/api/marshmallow";
+import {blob, struct, u64, u8} from "./marshmallow";
 import {Numberu64, PoolConfig, TokenInput, TokenSwapLayout} from "./layouts";
 import {SWAP_PROGRAM_ID, WSOL} from "./constants";
 

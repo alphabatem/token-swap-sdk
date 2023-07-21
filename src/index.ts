@@ -1,2 +1,2 @@
-export {default as Client} from "./client"
-export {default as PoolMath} from "./math"
+export {default as Client} from "./client.js"
+export {default as PoolMath} from "./math.js"

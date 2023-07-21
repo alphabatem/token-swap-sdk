@@ -10,5 +10,5 @@ export const USDC = new web3.PublicKey("EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyT
 export const MSOL = new web3.PublicKey("mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So")
 
 
-// export const METADATA_2022_PROGRAM_ID = new web3.PublicKey("META4s4fSmpkTbZoUsgC1oBnWB31vQcmnN8giPw51Zu")
-export const METADATA_2022_PROGRAM_ID = new web3.PublicKey("M1tgEZCz7fHqRAR3G5RLxU6c6ceQiZyFK7tzzy4Rof4")
+export const METADATA_2022_PROGRAM_ID = new web3.PublicKey("META4s4fSmpkTbZoUsgC1oBnWB31vQcmnN8giPw51Zu")
+// export const METADATA_2022_PROGRAM_ID = new web3.PublicKey("M1tgEZCz7fHqRAR3G5RLxU6c6ceQiZyFK7tzzy4Rof4")

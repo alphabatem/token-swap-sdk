@@ -1,4 +1,4 @@
-import {struct, u64, u8} from "@/api/marshmallow";
+import {struct, u64, u8} from "./marshmallow";
 import {BN, web3} from "@project-serum/anchor";
 
 export default class Instructions {

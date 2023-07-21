@@ -1,7 +1,6 @@
-import {TokenSwapPool} from "@/api/token_swap/layouts";
+import {TokenSwapPool} from "./layouts";
 import {TransferFee} from "@solana/spl-token";
-import BN from "bn.js";
-import {web3} from "@project-serum/anchor";
+import {BN, web3} from "@project-serum/anchor";
 
 export default {
 
